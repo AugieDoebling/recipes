@@ -19,4 +19,4 @@
 1. Mix cream cheese, 1 cup sugar, and whipped topping; spread over pretzels
 1. Dissolve Jello in heated pineapple juice and add strawberries
 1. Let partially set (about 20 minutes) and spread over cream cheese mixture
-1. Chill for 2 or more hours
+1. Chill overnight
