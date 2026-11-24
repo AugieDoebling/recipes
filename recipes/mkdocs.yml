@@ -2,3 +2,6 @@ site_name: The Spice of Life
 
 theme:
   name: terminal
+
+extra_css:
+  - css/extra.css
