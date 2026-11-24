@@ -4,12 +4,13 @@
 
 * 5 lbs potatoes, cooked and mashed
 * 1 (8oz) package cream cheese
-* 1 cup sour cream
-* 1 tsp salt
-* 2 tsp garlic salt
+* 1 cup plain greek yogurt
+* Salt
 * Pepper
-* Butter
+* Granulated garlic
 
 # Instructions
 
-1. Combine all ingredients and bake at 350°F until heated through
+1. Chunk potatoes
+1. Boil potatoes until fork soft
+1. Combine all ingredients and bake at 350°F until golden brown on top
