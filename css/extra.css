@@ -1,0 +1,17 @@
+/* Keep the site name and the nav menu from overlapping when the menu
+   has more items than fit on one line: let the menu wrap instead. */
+@media screen and (min-width: 30rem) {
+    .terminal-nav {
+        gap: 2em;
+    }
+    .terminal-logo {
+        flex-shrink: 0;
+    }
+    .terminal-menu {
+        min-width: 0;
+    }
+    .terminal-menu ul {
+        flex-wrap: wrap;
+        row-gap: 0.5em;
+    }
+}
